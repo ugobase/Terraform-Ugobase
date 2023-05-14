@@ -1,5 +1,5 @@
 key_name            = "basekey"
-public_key          = "~/.ssh/basekey.pub"
+public_key          = ######
 instance_type       = ["t2.micro", "t2.medium"]
 ami                 = ["ami-03c7d01cf4dedc891", "ami-0aa2b7722dc1b5612"]
 cidr_block          = "10.0.0.0/16"
